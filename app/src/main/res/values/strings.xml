@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">紧急求助</string>
+    <string name="permission_rationale">应用需要电话、短信和位置权限来在紧急情况下联系您的亲人。</string>
+</resources>
